@@ -26,7 +26,7 @@ if (process.env.NODE_ENV === 'production') {
                 {
                     "id": 1, 
                     "title": "开心麻花 title", 
-                    "name": "杨帅开心麻花", 
+                    "name": "杨帅开心麻花" , 
                     "price": 500, 
                     "type": "小品", 
                     "logoPath": "https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/pic/item/8c1001e93901213f0cd8c6b358e736d12e2e95f2.jpg", 
